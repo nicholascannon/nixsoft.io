@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { siteFont } from './font';
+import { siteFont } from '../font';
 import Head from 'next/head';
 
 export default function Home() {
